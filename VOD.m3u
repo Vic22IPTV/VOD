@@ -1,5 +1,494 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Netflix"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Sector_36.jpg/220px-Sector_36.jpg",SECTOR 36
+https://be6721.rcr72.waw04.cdn255.com/hls2/01/06914/2g05g0h8x9tl_h/index-v1-a1.m3u8?t=AK1Jrs6gSMeny-fT0x5GKJiceqxuS4AngMeolvG0yuA&s=1737311105&e=10800&f=34570267&srv=21&asn=13999&sp=4000&p=
+
+#EXTINF:-1 group-title="Netflix"   tvg-logo="",la trampa
+https://be7713.rcr82.waw05.cdn255.com/hls2/01/06801/ttsfw03unv4d_h/master.m3u8?t=wyiRGHki-X4ydT4ms_l10Ob70hjqA5syNJiN276fqbc&s=1737311536&e=10800&f=34007938&srv=05&asn=13999&sp=4000&p=
+
+#EXTINF:-1 group-title=""  type="movie" tvg-logo="https://mx.web.img3.acsta.net/pictures/18/03/07/09/26/4951397.jpg",Christopher Robin:Un reencuentro inolvidable 2018
+https://dl.dropboxusercontent.com/s/rht2qn00mxakvt8/SalynPM-C.R.mp4
+#EXTINF:-1 group-title=""  type="movie" tvg-logo="https://mx.web.img3.acsta.net/pictures/17/11/01/07/50/3949122.jpg",La razón de estar contigo 2016
+https://dl.dropboxusercontent.com/s/qga7cwijfr4eua2/SalynPM-SPM7s3g.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-castillo-ambulante.jpg" group-title="",El Castillo Vagabundo
+https://ia800507.us.archive.org/27/items/14-el-c-4-ast-5-llo-a-5-ambtula-5-nte/14EL%20C4AST5LLO%20A5AMBTULA5NTE.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPhFNB6/Van.jpg",Van Helsing
+https://dl.dropbox.com/s/78yalld8nmq1383/Van%20Helsing%20%282004%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3xFxGodKPMFLheS8rujFSmLfcq4.jpg" group-title="",Un puente hacia Terabithia
+https://ia800205.us.archive.org/5/items/el-mundo-magico-de-terabithiapelicula-completa-en-espanol-latino-480-p/El%20mundo%20m%C3%A1gico%20de%20Terabithia%28pel%C3%ADcula%20completa%20en%20espa%C3%B1ol%20latino%29%28480P%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qdgj9N3/Sonic.jpg", Sonic La Pelicula
+https://dl.dropbox.com/s/lktqxhwnbcucano/Sonic-%20La%20pel%C3%ADcula%20%5BTS%5D%5BLatino%5D%5BwWw.EliteTorrent.BZ%5D.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/enemy_mine-922915975-mmed.jpg" group-title="",Enemigo mio
+https://ia800303.us.archive.org/28/items/enemigo-mio-espan-ol-latino-360-p/ENEMIGO%20MIO%20ESPA%C3%91OL%20LATINO%28360P%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Sdp6dv/ii.jpg",The Old Guard
+https://dl.dropbox.com/s/2dlws4f8y42dq3m/The.Old.Guard.2020.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TkSRqy7/Pura-Energia.jpg", Pura energia
+https://archive.org/download/kohbn/ptol/kohbn.avi
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_flight_of_dragons-825167208-mmed.jpg" group-title="",El vuelo de los dragones
+https://ia600203.us.archive.org/6/items/facebook-407722370559405-480p/Facebook%20407722370559405%28480p%29.mp4
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/spartacus_202412/exort.jpg",el exorcista (2016)
+https://archive.org/download/spartacus_202412/elexorcista.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/yummy_202105/Blue%20Code%20of%20Silence.jpg",Código azul del silencio
+https://archive.org/download/yummy_202105/Blue%20Code%20of%20Silence.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z86oCfUHyI7bYVoeM6eMrE4yO9A.jpg",Las Legiones Emergentes (2019)
+https://archive.org/download/yummy_202105/-%20Las%20Legiones%20Emergentes.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1OoCd3fmjPHt9iCR4QxNGGrDyI0.jpg",12 Años un Esclavo (2013)
+https://archive.org/download/1240S/12%204%C3%910S.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dZeiD0WVM1IHzRAOSldsY0jh1CR.jpg",El Niño en los Pijamas Rayados (2008)
+https://archive.org/download/pack-5_202008/El%20ni%C3%B1o%20con%20el%20pijama%20de%20rayas.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7VqUPN0oRHfYV9hdZcal1ZzffmV.jpg",No Mueras: El Hombre que Quiere Vivir Para Siempre (2025)
+https://dl.dropbox.com/scl/fi/uvifpd4yoycki02yydl3u/BFLIX4321.mp4?rlkey=p0vd9orymevld4pwhj7pnbkca&st=4x0wlz4y&dl=0
+#EXTINF:-1 tvg-logo="https://archive.org/download/carlos-fuentealba.-camino-de-un-maestro/carlos-fuentealba.-camino-de-un-maestro.thumbs/Carlos%20Fuentealba.%20Camino%20de%20un%20maestro_000414.jpg",Carlos Fuentealba Camino De Un Maestro
+https://archive.org/download/603477904073/603477904073.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kXIduTwdLYUwflQ8rw1sZMp86FW.jpg",los jovenes muertos(2010)
+https://archive.org/download/los-jovenes-muertos/Los%20Jovenes%20Muertos.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hhOtApHWPE197cTGOkRcCdSMxy.jpg",Mi mejor enemigo (2005)
+https://archive.org/download/mi-mejor-enemigo/Mi%20mejor%20enemigo.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fpBMnvPNHqd6BonpWJKMxMCGGuL.jpg",Diego Maradona (2019)
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Diego%20Maradona%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/za9ANBaT0JAamJl0JjGXz5P1Gkq.jpg",Los secretos de la tumba de Saqqara (2020)
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Los%20secretos%20de%20la%20tumba%20de%20Saqqara%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z2MFDKcgTI7vqYNIT3lEbNsdLAM.jpg",Michael Jackson La vida de un ídolo (2011)
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Michael%20Jackson%20La%20vida%20de%20un%20i%CC%81dolo%20%282011%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9tFCPi4cfrY91ZpWvhc18BIZN80.jpg",Policías y ladrones (2020)
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Polici%CC%81as%20y%20ladrones%20%28C%29%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/orCYMvCvVzZo4M3WfKNXnoRsMAY.jpg",Mucho mucho amor La leyenda de Walter Mercado (2020)
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Mucho%20mucho%20amor%20La%20leyenda%20de%20Walter%20Mercado%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gx6DUx7EugLPM3NuY8PSJMuHR7J.jpg",Todos con Roona (2020)
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Todos%20con%20Roona%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bz2H6nmznsOAuFtwJAMjAApvR8M.jpg",Los niños de Hollywood (2020)
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Los%20nin%CC%83os%20de%20Hollywood%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mGf8q8QZ2Q0oL6zlyjTjsPD830u.jpg",El Secreto del Doctor Grinberg (2022)
+https://archive.org/download/the-secrets-of-jacobo-grenberg-1/The%20Secrets%20Of%20Jacobo%20Grenberg%20%281%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yoDuHuI0DkNe82EJwVqvUjOLc8X.jpg",Amando a Maradona (2005)
+https://archive.org/download/amando-a-maradona-2007-480p/Amando%20a%20Maradona%20%282007%29%20%5B480p%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mGUlFGtEbBjNU0ycvQ4SRVhUeDs.jpg",El niño del bosque (2023)
+https://archive.org/download/ver-el-nino-del-bosque/Ver%20El%20ni%C3%B1o%20del%20bosque.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tpShmsWxRPsCvvDexMfSnMmLo4o.jpg",La noche que luché contra Dios(2024)
+https://dl.dropbox.com/scl/fi/xbblwkr3coto603ia9cr0/BFLIX12342.mp4?rlkey=njycw7gykzgpa5ihc6vu6sbfk&st=nmhg479n&dl=0
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81oL9qggLSL._SY445_.jpg",AFRICA EXTREMA
+http://archive.org/download/009_20200823/001.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZlNDcwMjQtYTg0Yy00YWYxLWExMTgtMGRhNjQ4MWE2ZTc5XkEyXkFqcGdeQXVyMjE3MTA1Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg",AGUAS INVISIBLES
+https://archive.org/download/el-eslabn-extraterrestre-outer-space-connection-1975-in-spanish/El%20Eslabn%20Extraterrestre%20%20Outer%20Space%20Connection%201975%20in%20Spanish.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM4NmZhN2UtMDVlZC00MGVmLWFhMDgtNjk3NjEzZmI2NmU4XkEyXkFqcGdeQXVyNzIxNjgzNDg@._V1_UX182_CR0,0,182,268_AL_.jpg",AGUAS INVISIBLES
+http://archive.org/download/009_20200823/002.mp4
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/474R1.jpeg",ATARI GAME OVER
+https://archive.org/download/4t-4ri-g-4m-3-0v-3r/4t4ri%20g4m3%200v3r.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRiMDAwZDctNDg3Yy00MzQ2LWFlYzYtOTk2ZmM0ZDJiODU2XkEyXkFqcGdeQXVyMjM0MDc0MzA@._V1_UX182_CR0,0,182,268_AL_.jpg",EL SR MIYAGUI DE KARATE KID
+https://archive.org/download/miyagi-story-2021/Miyagi%20Story%20%282021%29.mp4
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/1n53rc01n.jpeg",Insert Coin
+http://archive.org/download/midw-4y-ins-3rt-c-0in/midw4y%20ins3rt%20c0in.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI5MTQ3NTc0MF5BMl5BanBnXkFtZTgwMjE2NDI0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg",LOS OCHENTA: LA MUSICA
+https://archive.org/download/documentales_202012/Los%20ochenta%203.%20La%20musica.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmUyYTlmZjMtZTM1Ni00NzM5LWFiMzAtMmU4ODUxZjE3ZjNlXkEyXkFqcGdeQXVyMjIzMTQ5NjE@._V1_UX182_CR0,0,182,268_AL_.jpg",Michael Jackson: The Life of an Icon 2011
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011/Michael%20Jackson%20La%20vida%20de%20un%20%C3%ADdolo%20%282011%29.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmUwNTJlMTQtODIxMC00MGQ0LThhNjgtMTEwZDRmY2FmNGM1XkEyXkFqcGdeQXVyNjMzNTg0MjQ@._V1_UY268_CR3,0,182,268_AL_.jpg",Steve Jobs: Billion Dollar Hippy 2011
+https://archive.org/download/documentales_202012/Steve%20jobs%20el%20hippie%20millonario.mp4.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgwZmE1NDAtN2JhNy00ZGQ4LWFhMjEtZDVmZDExNzQwNDgwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY268_CR10,0,182,268_AL_.jpg",The Beatles Anthology
+https://archive.org/download/thebeatlesantologia_202012/THEBEATLESANTOLOGIA.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iu4OcNTb35DcRlKLUIiUDpuejHD.jpg",La Serpiente De Alabama
+https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Alabama%20Snake%20%282020%29.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zZFgu08NbAdf1GdyIcewwcpBznU.jpg",Los niños perdidos (2024)
+https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/L.7.45.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/h11pzG8yK70Ly5MkNHvhPH9m84n.jpg",Mi padre (2022)
+https://archive.org/download/rodm4n/Mi%20padre.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v9px6FMFEzFAglB13osyrGvHtr2.jpg",Rodman: For Better or Worse (2019)
+https://archive.org/download/rodm4n/rodm4n.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg",2 pac all eyez on me
+https://github.com/Ezequiel10579/peliculas/releases/download/musica/2PAC.All.Eyez.On.Me.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/v0guO0krvyz8IfKGxEje04LVM9d.jpg"group-title="",Tesla (2020)
+https://archive.org/download/tesla_202408/Tesla.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/axdhbcZeOsfX3ZpwtgdgPIjc06l.jpg"group-title="",1917
+https://archive.org/download/1917_20240801/1917.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/lpnRQzopVI4rPRE0aiXG3lOwjqq.jpg"group-title="", La sociedad de la nieve
+https://dl.dropbox.com/scl/fi/yqkse1ed8anwof8s39qm7/S0C13D4DN13V3.mkv?rlkey=6zey506aqbrdy2dx7v3r9a0gl
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/rZ8j1LnAPxIwsGEN7oC7gOHUQK1.jpg"group-title="",garra de hierro (2023)
+https://dl.dropbox.com/scl/fi/yzctb93e4l0wbndr9bnrr/Garra-de-Hierro.mp4?rlkey=4bg65twn9svk80e9xoajobwc6&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/A15nvIYUzLEZS65vUQkZMorwNwE.jpg"group-title="",federer últimos 12 dias
+https://archive.org/download/federer-twelve-final-days/Federer%20Twelve%20Final%20Days.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/8UTX8gcyMYuR3smkzIgODHLr8ez.jpg"group-title="",Federer la perfección suiza
+https://dl.dropbox.com/scl/fi/49xo5e7zr7fonlcvxzulb/Roger-Federer-la-perfecci-n-suiza.mp4?rlkey=zyo87mo1q9sdnhvi60k3c2xwo&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/edPWyHqknFuxFY3sdmC3LtJITWC.jpg"group-title="",amigos intocables (2011)
+https://dl.dropbox.com/scl/fi/3ulit3v82xc7so1f3gra2/Amigos-Intocables.mp4?rlkey=cr7hvvdxh8lgeja8g75eaiqy8&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/isLWtcB9TK3wLlTzEny2dPH6beh.jpg"group-title="",argentina 1985
+https://dl.dropbox.com/scl/fi/uufbupmiq4b7tbv07lzw9/Argentina-1985.mp4?rlkey=tqnj8xy9ppm9aa6f37qh9988d&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/yPNumPkIkv9lm51qpffVJEhtlC7.jpg"group-title="",El Ministerio de la Guerra (2024)
+https://dl.dropbox.com/scl/fi/q3ew1ajtsqv701obih8h8/The-Ministry-of-Ungentlemanly-Warfare-720p-DUAL-1.83-GB.mkv?rlkey=5nsie7kwlsw91jiud7jgt6wo3&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aRgTLpY3wl9I5MLGlBdiRXOeCY4.jpg"group-title="",muchachos (2023)
+https://dl.dropbox.com/scl/fi/nrex427oaniej52s3myld/1_5087231428870014090.mp4?rlkey=mi1hhymslibfrfqiyabyseauv&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/eLbDSu14EZ2VldIgDDGrt5pJkoL.jpg"group-title="",elijo creer (2023)
+https://dl.dropbox.com/scl/fi/h6pfux88dv65czpfisucw/237278-d01ea80a-114d-4c41-9771-2dba248e3ea6-ahgz-2010800-streamwish.mp4?rlkey=tayfw2g1xp937rz98fssmb3cs&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b0obWWCLRVRqRzlSK1LSGtADkLM.jpg" group-title="2024",Venom: El último baile (2024)
+https://archive.org/download/v3_n0m-3/v3_n0m-3.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q1czoLwMaiUO1bznWuETCP5ueZj.jpg" group-title="2024",Wicked (2024)
+https://ia600805.us.archive.org/13/items/w-1-ck-3d/W1_ck3d.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg" group-title="2024",Heretic (2024)
+https://archive.org/download/h3R_3j3/h3R_3j3.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3xOYf938hlGXR7Epta7jH2CjCba.jpg",The Shed (2019)
+https://archive.org/download/the-shed-2019/THE%20SHED%20%20%282019%29.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2D11vhVBLC4jP0vVqKdQm97Z3qb.jpg",LOS MAGNIFICOS
+https://archive.org/download/la-ninera-4/losmagn1f1cos.m3u
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ciuW95pdPaiReudofHwyv6qYi12.jpg",Pinceladas de amor (2024)
+https://archive.org/download/ver-pinceladas-de-amor-2024-online-hd-cuevana/Ver%20Pinceladas%20de%20amor%202024%20online%20HD%20-%20Cuevana.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg",Snack Shack (2024)
+https://archive.org/download/ver-snack-shack-2024-online-re-pelis-24-gratis/Ver%20Snack%20Shack%20%282024%29%20Online%20%E2%9C%85%20RePelis24%20%C2%BB%20Gratis.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hTu6AGatoigX8OKOmg9YRxcs1Pw.jpg",Pequeña flor (2022)
+https://archive.org/download/pequena-flor/peque%C3%B1a%20flor.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gabWTSVhzltlKkmcqPoJmjKJxyb.jpg",Kraven el cazador (2024)
+https://dl.dropbox.com/scl/fi/hg46qbk58gl72u9gqtrj3/K.BFLOX2024.mp4?rlkey=wbu5u3eqlt8tdj9s8p4p1k73d&st=2e6v18xd&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q9K00bjANiPjgLYLTiIDh7ZrIj5.jpg",Una noche con Sabrina Love (2000)
+https://archive.org/download/una-noche-con-sabrina-love-flow-1080p/Una%20noche%20con%20Sabrina%20Love%20%282000%29%20%5BFLOW-1080p%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/naZMlKUYOoROozrqWa9dpoMdJL2.jpg",Pared con pared (2024)
+https://archive.org/download/ver-pared-con-pared-2024-online-re-pelis-24-gratis/Ver%20Pared%20con%20pared%20%282024%29%20Online%20%E2%9C%85%20RePelis24%20%C2%BB%20Gratis.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2s0mOdJMfIgzgn8Q9HvWHptgCKi.jpg",los 3 chiflados
+https://archive.org/download/la-ninera-4/los3chiflados.m3u
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xQzQIrVbwft9nICAt6S6BWkthF5.jpg",Equipaje de mano (2024)
+https://dl.dropbox.com/scl/fi/rg8nqje8lagn41l5cvy5i/094678322.mp4?rlkey=xt9sayl8t4l24jqsdqu2o4p85&dl=0
+
+#EXTINF:- tvg-logo="https://image.tmdb.org/t/p/original/8oq118OTYuftOu7lmxIbzB31JzK.jpg", Besos Kitty
+https://raw.githubusercontent.com/BrianRVP/Ejemplo/refs/heads/main/Besos%20Kitty
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yZ0HCHe4rMFBWMEqmt1gGyjU7ZK.jpg",100 AN DE SOLEDAD (2024)
+https://archive.org/download/la-ninera-4/cienanods0l3dad.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1WynayCqKRzrl4cFZR8NOfiDwd6.jpg",desencanto(2018)
+https://archive.org/download/la-ninera-4/desencanto.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCUcNIUvwtceuF3WdvlFfGll7Eo.jpg",Family by Choice (2024)
+https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/family
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lEKsuLjivwkgNb9Y6Upj86aabdK.jpg",Misterios sin Resolver (1988)
+https://archive.org/download/la-ninera-4/misteriosinr3s0lv3r1.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9OvSVH1KJQRlLzOVLEGHta9pwfX.jpg",Devilman Crybaby (2018)
+https://archive.org/download/spartacus_202412/DEVILMAN.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/agxlRm9l50czjWPNW5Q1esUMdOb.jpg"group-title="Netflix",El juego del calamar: Temporada 2 (2024)
+https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/calammar%201
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI TEMPORADA 6 LATINO
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Cobra%20Kai%20sexta%20temporada
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wCQP1El20FFncM0lIYcaW3Kq19o.jpg",3% (2016)
+https://github.com/linkarg13/SERIES2/releases/download/M3u/3.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg",Terminator zero
+https://github.com/Ezeboca109/SERIE33/releases/download/SER44/Terminator.zero.m3u
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4mHu5HpQJ0zPbZG5KF6sJP2dDN2.jpg"group-title="Netflix",el aprendis de sumo
+https://github.com/Ezequiel10579/peli/releases/download/pel/aprendis.m3u
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vHtNgRLWdMk7wIV2WbqkOzU7HHI.jpg"group-title="Netflix",SUPACELL
+https://github.com/linkarg13/SERIES2/releases/download/Sup4c3ll/0000000000000.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg"group-title="Netflix",The Umbrella Academy
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/The%20Umbrella%20Academy
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/sex-education.jpg" group-title="Netflix",Sex education (2023) latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/sex%20education%20temporada%203%20y%204
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ohGz4HDYGTite1GmRhRuBMVAn03.jpg" group-title="Netflix",Arcane (2021)
+https://archive.org/download/si2_20220111/arck.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI0ZDVhNTctOWI5Yy00NDE4LWI0MjctYTJiODU4ODA1YTJjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",EL JUEGO DEL CALAMAR
+https://archive.org/download/elch4v0/calam.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DRAMA TOTAL.jpg" group-title="Netflix",DRAMA TOTAL
+http://archive.org/download/ns_20210520/DRAMATOTAL.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLOSE ENOUGH.jpg" group-title="Netflix",CLOSE ENOUGH
+http://archive.org/download/clo-eno/Clo%20Eno.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BETTER CALL SAUL.jpg" group-title="Netflix",BETTER CALL SAUL
+http://archive.org/download/ns_20210520/saul.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/happy.jpg" group-title="Netflix",HAPPY!
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Happy!
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK MIRROR.jpg" group-title="Netflix",BLACK MIRROR
+http://archive.org/download/ns_20210520/BLACK%20MIRR.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK SUMMER.jpg" group-title="Netflix",BLACK SUMMER
+http://archive.org/download/black-summer-serie/BLACK%20SUMMER%20%20SERIE.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ARROW.jpg" group-title="Netflix",ARROW
+http://archive.org/download/ns_20210520/arrow.m3u
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/bojack_horseman-687229611-mmed.jpg" group-title="Netflix",BOJACK HORSEMAN
+http://archive.org/download/ns_20210520/BOJA.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/stranger-things.jpg" group-title="Netflix",stranger things
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Stranger%20things
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CASA DE FLORES.jpg" group-title="Netflix",CASA DE FLORES
+http://archive.org/download/ns_20210520/casa%20de%20flores%20.m3u 
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CASTLEVANIA.jpg" group-title="Netflix",CASTLEVANIA
+http://archive.org/download/ns_20210520/CASTEL.m3u 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/fsQ2KHbZk12z3h3dba2ActMEudj.jpg" group-title="Netflix",One Piece:Live Action (2023) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/One%20piece%20live%20action
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLUB DE CUERVOS.jpg" group-title="Netflix",CLUB DE CUERVOS
+http://archive.org/download/ns_20210520/CLUBCUERVOS.m3u 
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI
+https://archive.org/download/si2_20220111/CK.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DARK.jpg" group-title="Netflix",DARK
+http://archive.org/download/ns_20210520/DARK.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DAYBREAK.jpg" group-title="Netflix",DAYBREAK
+http://archive.org/download/t-1dbfifkdudkx_202010/T1dbfifkdudkx.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/alice-in-borderland-2-1607758082.jpg" group-title="Netflix",Alice in borderlandd
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Series%20de%20netflix
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/madam-c-j-walker-una-mujer-hecha-a-si-misma-1587222033.jpg" group-title="Netflix",Madam C.J. Walker: Una Mujer Hecha a si Misma
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Madam%20C.J.%20Walker%3A%20Una%20mujer%20hecha%20a%20si%20misma
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/black-mirror.jpg" group-title="Netflix",Black Mirror temporada 6 latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Black%20mirror%20temporada%206
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cortar-por-la-linea-de-puntos-1689749846.png" group-title="Netflix",Cortar por la linea de puntos castellano (2021)
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Cortar%20por%20la%20linea%20de%20puntos
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/stranger-things.jpg" group-title="Netflix", stranger things
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Stranger%20things
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-witcher-1578109844.jpg" group-title="Netflix",The witcher
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20witcher
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/startup-1669428540.png" group-title="Netflix",Startup
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Startup
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/yv57TccCkgdy3St7rspBPKROeRK.jpg" group-title="Netflix",Woo:Una abogada extraordinaria
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Woo%3AUna%20abogada%20extraordinaria
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-serie-de-cuphead.png" group-title="Netflix",CupHead Show! (2022) Latino
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/CupHead%20Show%20(2022)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qjUn6GVZVDifLHB7bvVrgZsOfzE.jpg"group-title="Netflix",XINA
+https://dl.dropbox.com/s/qybhybywfjkupuq/xen4.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Netflix",Los Bridgerton (2024)
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Bridgestone
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/u8sLAJUvY9yzWqtVfKRQz5yin3D.jpg"group-title="Netflix",dulce hogar
+https://raw.githubusercontent.com/linkarg13/SERIES/main/DULCEHOGAR
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/thkeCJlHhBj2LmxqR7kfHYzOsl9.jpg" group-title="Netflix",Los detectives difuntos (2024) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Los%20detectives%20difuntos
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/qoFkjFwSb4NM6ZHpIZW9iKgXA4e.jpg"group-title="Netflix", CADAVERES
+https://raw.githubusercontent.com/linkarg13/SERIES/main/Criminales
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5uf6L2w2QRomahGMCniHskNOQWf.jpg"group-title="Netflix",OKUPAS
+https://raw.githubusercontent.com/linkarg13/SERIES/main/OKUPAS
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/3-1669726661.png"group-title="Netflix",3%
+https://raw.githubusercontent.com/linkarg13/SERIES/main/3%25
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ulGaOy0dUXAm8V2XRmIrQ3xE8lt.jpg" group-title="Netflix",Avatar:La leyenda de aang live action (2024) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Avatar%20live%20action
+#EXTINF:-1 tvg-logo="https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3Iw27VOUE9PGjrupjDAvPnlbGR9.jpg&w=640&q=75"group-title="Netflix", cuerpo en llamas
+https://raw.githubusercontent.com/linkarg13/Cuerpoenllamas/main/Cuerpo%20en%20llamas
+#EXTINF:-1 tvg-logo="https://repro12.estrenosdoramas.us/Sisyphus.png" group-title="Netflix",EL MITO DE SISIFO
+https://archive.org/download/elch4v0/sisy.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/b34ckm4.jpg" group-title="Netflix",EL MUNDO DE BEAKMAN {1992}
+http://archive.org/download/ns_20210520/BECMAN.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/zfwbbab1yfHAjFbbClh1jYoV8gi.jpg" group-title="Netflix",Parasyte:Los grises (2024) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Parasyte%20los%20grises
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL MUNDO OCULTO DE SABRINA.jpg" group-title="Netflix",EL MUNDO OCULTO DE SABRINA
+http://archive.org/download/kuhlman_1/Series/series/El%20mundo%20oculto%20de%20sabrina%20opc%202.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL ROBO DEL SIGLO.jpg" group-title="Netflix",EL ROBO DEL SIGLO
+http://archive.org/download/t-1erdsfugjxuv/T1erdsfugjxuv.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ELITE.jpg" group-title="Netflix",ELITE
+https://archive.org/download/elch4v0/Elite.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ESTA MIERDA ME SUPERA .jpg" group-title="Netflix",ESTA MIERDA ME SUPERA 
+http://archive.org/download/esta-mierda-me-supera/Esta%20mierda%20me%20supera.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LEJOS.jpg" group-title="Netflix",LEJOS
+http://archive.org/download/t-1la/T1la.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOCKE AND KEY.jpg" group-title="Netflix",LOCKE AND KEY
+http://archive.org/download/ns_20210520/lock.m3u
+#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p11213278_b_v13_aa.jpg" group-title="Netflix",Sonic Boom (2014) Latino
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Sonic%20Boom%20(2014)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/sonic_prime-145481181-mmed.jpg" group-title="Netflix",Sonic Prime 2022 Latino
+https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/Sonic%20Prime%202022%20(Netflix)
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HIGH SCORE.jpg" group-title="Netflix",HIGH SCORE
+http://archive.org/download/ns_20210520/high%20score.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FINAL SPACE.jpg" group-title="Netflix",FINAL SPACE
+http://archive.org/download/ns_20210520/FINAL.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GAMBITO DE DAMA.jpg" group-title="Netflix",GAMBITO DE DAMA
+http://archive.org/download/gam_20201208/GAM.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GUAU QUE AMIGO.jpg" group-title="Netflix",GUAU QUE AMIGO
+http://archive.org/download/ns_20210520/GUAU.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/h-4-unt-3-d/H4UNT3D.jpg" group-title="Netflix",Haunted 2018
+http://archive.org/download/shing089/H4un73d.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HOW TO GET AWAY WITH MURDER.jpg" group-title="Netflix",HOW TO GET AWAY WITH MURDER
+http://archive.org/download/hm_20200929/HTGAWM.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBlZmE4YzItNTY5Mi00NmIxLTlhZTAtOWIxNjFlNTMzNmI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",KINGDOM
+https://archive.org/download/elch4v0/kindo.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/losmejoresexitos/c4mpcr35.jpg" group-title="Netflix",Jurassic WordlCampamento Crustaceo
+http://archive.org/download/losmejoresexitos/tempfd.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/KINGS AVATAR.jpg" group-title="Netflix",KINGS AVATAR
+http://archive.org/download/ns_20210520/KINGA.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE PAPEL.jpg" group-title="Netflix",LA CASA DE PAPEL
+http://archive.org/download/ns_20210520/la%20casa%20de%20pape.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE LAS FLORES.jpg" group-title="Netflix",LA CASA DE LAS FLORES
+http://archive.org/download/ns_20210520/LACASADELASFLORES.m3u
+#EXTINF:-1 tvg-logo="" group-title="Netflix",LA CASA DE PAPEL
+http://archive.org/download/BY1234/BY.M3U
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOVE DEATH AND ROBOTS.jpg" group-title="Netflix",LOVE DEATH AND ROBOTS
+http://archive.org/download/peliculas_201903/LoveDeath%20Robots.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vkGnVBSNpayJ1oCfyVaMvhrim95.jpg" group-title="Netflix",LUCIFER
+https://archive.org/download/elch4v0/luc1f3r.m3u
+#EXTINF:-1 tvg-logo="https://www23.estrenosdoramas.net/wp-content/uploads/2020/02/My_Holo_Love.jpg?x64181" group-title="Netflix",MY HOLO LOVE
+https://archive.org/download/elch4v0/my%20holo%20love.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NACION Z.jpg" group-title="Netflix",NACION Z
+http://archive.org/download/ns_20210520/NACION%20Z.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NICKY JAM EL GANADOR.jpg" group-title="Netflix",NICKY JAM EL GANADOR
+http://archive.org/download/ns_20210520/ELGAN.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/OSCURO DESEO .jpg" group-title="Netflix",OSCURO DESEO 
+http://archive.org/download/t-1odcnkdbejrvq/T1odcnkdbejrvq.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ikqlGaEt9lv9LEUX02LO9fNJ0x4.jpg" group-title="Netflix",Peaky Blinders
+https://archive.org/download/elch4v0/P3KY.m3u
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6061/68c942f64555dfba90e3f78c25317b5be581359f_hq.jpg" group-title="Netflix",PINOCCHIO
+https://archive.org/download/ns_20210520/pinocho.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/RAGNAROK.jpg" group-title="Netflix",RAGNAROK
+http://archive.org/download/ns_20210520/ragnar.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/b1IBsimEJOLjBLYsdBZ1VAcmq73.jpg" group-title="Netflix",Rebelde (2022)
+https://archive.org/download/si2_20220111/reb.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyNDE5YTYtZGVhNC00ZGMxLWIxNmItNDBiYWUwODQ5ZWY1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="Netflix",RESIDENT EVIL LA TINIEBLA INFINITA
+https://archive.org/download/elch4v0/residevil.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzEzMzM2ODc1Ml5BMl5BanBnXkFtZTcwMTg2MjAzMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Netflix",SALVADOS POR LA CAMPANA
+https://archive.org/download/elch4v0/salcam1.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SANTA CLARITA DIET.jpg" group-title="Netflix",SANTA CLARITA DIET
+http://archive.org/download/ns_20210520/SANDIE.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SED DE REVANCHA GET EVEN.jpg" group-title="Netflix",SED DE REVANCHA GET EVEN
+http://archive.org/download/sedven/sedven.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SEX EDUCATION.jpg" group-title="Netflix",SEX EDUCATION
+http://archive.org/download/ns_20210520/seed.m3u
+#EXTINF:-1 tvg-logo="https://archive.org/download/sup_20230128/sup.png",Smallville (Superman) 2001
+https://dl.dropbox.com/s/ma09c5wwkbtekws/Smallville%20Superman.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNhY2JlMmItMGMzZi00ZTM2LTlmNTItZDBkMGVhNGJhYWRhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Netflix",SOMBRA Y HUESO
+https://archive.org/download/elch4v0/huesom.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STRANGER THINGS.jpg" group-title="Netflix",STRANGER THINGS
+http://archive.org/download/ns_20210520/stin.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SWEET HOME.jpg" group-title="Netflix",SWEET HOME
+http://archive.org/download/sweethome_202101/SWEETHOME.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk4ZDRhYzEtZWExNy00MjIyLTgyYmMtN2Y2MzA4YzZhZTZmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",Sweet Tooth
+https://archive.org/download/elch4v0/sweedr.m3u
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1M876KPjulVwppEpldhdc8V4o68.jpg" group-title="Netflix",THE CROWN
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Temporadas%20The%20crown
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE END OF THE WORD.jpg" group-title="Netflix",THE END OF THE WORD
+http://archive.org/download/macross-frontier/the%20end%20of%20the%20world00.m3u
+#EXTINF:-1 tvg-logo="" group-title="Netflix",THE OFFICE
+http://archive.org/download/BU22OK/BU.M3U
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE KING THE ETERNAL MONARCH.jpg" group-title="Netflix",THE KING THE ETERNAL MONARCH
+http://archive.org/download/king_20201210/KING.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE OFFICE.jpg" group-title="Netflix",THE OFFICE
+http://archive.org/download/theoffice-1/THEOFFICE.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/TITANS.jpg" group-title="Netflix",TITANS
+http://archive.org/download/ns_20210520/TITAN.m3u
+#EXTINF:-1 tvg-logo="https://www23.estrenosdoramas.net/wp-content/uploads/2020/01/Touch.jpg" group-title="Netflix",TOUCH
+https://archive.org/download/elch4v0/TOUCH.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/TROLLHUNTER.jpg" group-title="Netflix",TROLLHUNTER
+http://archive.org/download/ns_20210520/trollhunter.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VIKINGOS.jpg" group-title="Netflix",VIKINGOS
+http://archive.org/download/113y-3s/VK.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VIZ A VIZ.jpg" group-title="Netflix",VIZ A VIZ
+http://archive.org/download/t-5vavfufjfkxksu/T5vavfufjfkxksu.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/archive-81-2-1642252803.jpg" group-title="Netflix",Archivo 81 (2022) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Archivo%2081
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-oa.jpg" group-title="Netflix",The OA
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/The%20OA
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rumbo-al-infierno-1669344118.png" group-title="Netflix",Rumbo al infierno (2021) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Rumbo%20al%20infierno
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/anne-with-an-e-1598657484.jpg" group-title="Netflix",Anne with an E
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Anne%20with%20an%20E
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/todo-es-una-mierda-everything-sucks.jpg" group-title="Netflix",Everthing sucks! latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Everthing%20sucks!
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hemlock-grove.jpg" group-title="Netflix",Hemlock grove
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Hemlock%20grove
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-midnight-gospel-1587583248.jpg" group-title="Netflix",The midnight gospel (2020) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/The%20midnight%20gospel
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-chapo.jpg" group-title="Netflix",El chapo
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/El%20chapo
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/how-to-become-a-cult-leader-1690765194.png" group-title="Netflix",Como se convirtieron en lideres de sectas latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Como%20se%20convirtieron%20en%20lideres%20de%20sectas
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/oscuro-deseo-1594849861.jpg" group-title="Netflix",Oscuro Deseo
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Oscuro%20Deseo
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-casa-de-papel.jpg" group-title="Netflix",La Casa de Papel temporada 5
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/La%20casa%20de%20papel%20temporada%205
+#EXTINF:-1 tvg-logo="https://www.clarin.com/img/2024/04/22/xCel-AVbY_720x0__1.jpg" group-title="Netflix",bebe reno (2024) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/bebe%20reno
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ozark.jpg" group-title="Netflix",Ozark latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Ozark
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS SIMULADORESMEXICO.jpg" group-title="Paramount+",LOS SIMULADORESMEXICO
+http://archive.org/download/ns_20210520/SIMU.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/k3n4lyk3l.jpg" group-title="Paramount+",KENAL Y KEL
+http://archive.org/download/ANIME_20190528/KYK.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA5MmM4ZmYtMWE4My00OGUzLWE0ZDQtNGE5Mjc3ZWM0Y2Q1XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg" group-title="Paramount+",LOS LOCOS ADDAMS
+https://archive.org/download/ns_20210520/adams.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SABRINA LA BRUJA ADOLESCENTE.jpg" group-title="Paramount+",SABRINA LA BRUJA ADOLESCENTE
+http://archive.org/download/sabrina-2/sabrinatemporada.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STAR TREK PICARD.jpg" group-title="Paramount+",STAR TREK PICARD
+http://archive.org/download/ns_20210520/STARPI.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SOUTH PARK.jpg" group-title="Paramount+",SOUTH PARK
+http://archive.org/download/ns_20210520/south%20park.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/A5iqVpn8xOWeYAkJRLbk6Q3vyR6.jpg" group-title="Paramount+",I CARLY 2021
+https://archive.org/download/elch4v0/CARLY.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL BUEN DOCTOR.jpg" group-title="Prime video",EL BUEN DOCTOR
+http://archive.org/download/ns_20210520/El%20buen%20doctor.m3u
+#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/original/9KZSX0rIgMhNbA7reH3NU1qk3bJ.jpg" group-title="Prime video",DAWSONS CREEK
+http://archive.org/download/ns_20210520/DAWSONSCRE.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sbmiHPvhCi10oYzCPhbbROORb2B.jpg" group-title="Prime video",DE VIAJE CON LOS DERVEZ
+http://archive.org/download/ns_20210520/DEVIAJECONLOSDER.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQyZGRmMjMtN2Q5OC00Mjc4LWIwOTUtMTBjYzhiMDExNDY4XkEyXkFqcGdeQXVyMTI5NDA0OTQ3._V1_FMjpg_UX1000_.jpg" group-title="Prime video",HARINA 2022
+https://archive.org/download/si2_20220111/hari.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GOTHAM.jpg" group-title="Prime video",GOTHAM
+http://archive.org/download/ns_20210520/GOTHAM.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Jxl5Z1JBWnd2JWJUgYsm8FIzG4.jpg" group-title="Prime video",EL JOVEN SHELDON
+http://archive.org/download/ns_20210520/JOVESH.m3u
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/78n5sw1f6qimGDY08n90GE18RyV.jpg" group-title="Prime video",EL JUEGO DE LAS LLAVES
+http://archive.org/download/ns_20210520/LLAVE.m3u
+
+
+#EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2022/04/j00juJOffNdhkpkIaayQjcgvK2n-200x300.jpg" group-title="Prime video",Fear the Walking Dead
+https://archive.org/download/si2_20220111/WF.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/INTOBADLANDS.jpg" group-title="Prime video",IN TO BADLANDS
+http://archive.org/download/ns_20210520/INTOBADLANDS.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/JACKRYAN.jpg" group-title="Prime video",JACK RYAN
+http://archive.org/download/ns_20210520/jack%20ryan.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LETEMESALAOBSCURIDAD.jpg" group-title="Prime video",LE TEMES A LA OBSCURIDAD
+http://archive.org/download/ns_20210520/TEMESOB.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS DUKES DE HAZZARD.jpg" group-title="Prime video",LOS DUKES DE HAZZARD
+http://archive.org/download/ns_20210520/dukes.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS HEROES DEL NORTE.jpg" group-title="Prime video",LOS HEROES DEL NORTE
+http://archive.org/download/ns_20210520/HEROESNERTE.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS REYES DE LA COLINA.jpg" group-title="Prime video",LOS REYES DE LA COLINA
+http://archive.org/download/koht1_202001/KOHT1.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA DIMENSION DESCONOCIDA .jpg" group-title="Prime video",LA DIMENSION DESCONOCIDA 
+http://archive.org/download/ns_20210520/dimension.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjY3MDIzMV5BMl5BanBnXkFtZTcwNzMzMjYyMQ@@._V1_UY268_CR5,0,182,268_AL_.jpg" group-title="Prime video",LA FAMILIA MONSTER
+https://archive.org/download/elch4v0/FAMMONS.m3u
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/la-familia-p-luche.jpg" group-title="Prime video",LA FAMILIA PELUCHE
+https://archive.org/download/elch4v0/peluc.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/Lordersvu.jpg" group-title="Prime video",LA LEY Y ORDEN UVE
+http://archive.org/download/BT09BT/BT.M3U
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS TRES CHIFLADOS.jpg" group-title="Prime video",LOS TRES CHIFLADOS
+http://archive.org/download/ns_20210520/TRECHI.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NIP TUCK CORTES Y PUNTADAS.jpg" group-title="Prime video",NIP TUCK CORTES Y PUNTADAS
+http://archive.org/download/ns_20210520/NIPTUCK.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NOSOTROS LOS GUAPOS.jpg" group-title="Prime video",NOSOTROS LOS GUAPOS
+http://archive.org/download/ns_20210520/Nosotros%20los%20Guapos.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/POWER.jpg" group-title="Prime video",POWER
+http://archive.org/download/ns_20210520/POWER.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SALVAJES.jpg" group-title="Prime video",SALVAJES
+http://archive.org/download/SALVAJ/SALVAJ.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SCREAM QUEENS.jpg" group-title="Prime video",SCREAM QUEENS
+http://archive.org/download/ns_20210520/SCREAMQUEEN.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SHERLOCK CASTELLANO.jpg" group-title="Prime video",SHERLOCK CASTELLANO
+http://archive.org/download/ns_20210520/SHERLOCK.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SIN LIMITES.jpg" group-title="Prime video",SIN LIMITES
+http://archive.org/download/ns_20210520/limite.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STUDIO 60 DUAL AUDIO.jpg" group-title="Prime video",STUDIO 60 DUAL AUDIO
+http://archive.org/download/ns_20210520/STUDIO60.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE BOYS.jpg" group-title="Prime video",THE BOYS
+http://archive.org/download/3-d-kanojo/TB.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/UN EXTRAÑO ENEMIGO.jpg" group-title="Prime video",UN EXTRAÑO ENEMIGO
+http://archive.org/download/LosJovenesTitanes/UN%20Extra%C3%B1o%20enemigo.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/UNA FAMILIA DE 10.jpg" group-title="Prime video",UNA FAMILIA DE 10
+http://archive.org/download/unafamiliadediez/primera%20temporada.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/ya555.jpg" group-title="Prime video",Vecinos
+http://archive.org/download/shing089/v3c12n055.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/buenos-presagios.jpg" group-title="Prime video",Good omens
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Good%20omens
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/paper-girls-2-1669011195.jpg" group-title="Prime video",Paper girls (2022) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Paper%20girls
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/muy-viejo-para-morir-joven-1586966431.jpg" group-title="Prime video",Muy viejo para morir joven latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Muy%20viejo%20para%20morir%20joven
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/hunters-1585350037.jpg" group-title="Prime video",Hunters
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Hunters
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HEROES.jpg" group-title="Prime video",HEROES
+http://archive.org/download/ns_20210520/heroes.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FOREVER.jpg" group-title="Prime video",FOREVER
+http://archive.org/download/ns_20210520/FOREVER.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE LOS DIBUJOS.jpg" group-title="Prime video",LA CASA DE LOS DIBUJOS
+http://archive.org/download/ns_20210520/casa%20dib.m3u
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eiAwCYVslfhBMs6ulHrY72CeFiq.jpg",Porkys contraataca (1985)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/PORKY%27S%203%20%281985%29%20%E2%9C%94.mp4
