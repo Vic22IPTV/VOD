@@ -1,5 +1,239 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eLd31emY3jann7JV0AkSPJ06Xep.jpg",Ghost in the Shell: The Rising (2015)
+https://archive.org/download/ghost-sd/Ghost%20SD.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflixasura-7asure/asure%20tapap%C3%B1%20principal.jpg",Asura (2025)
+https://archive.org/download/bflixasura-7asure/BFLIXasure.m3u
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tqgkpzgo72d280ilb697c/IMG_20240707_072517_535.jpg?rlkey=0qcjhpo8yty7ud3iifz9630yo&dl=0"group-title="",Mad Max 2: El Guerrero de la Carretera (1981)
+https://archive.org/download/mm-2-sd/MM2%20SD.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/edgKt5Z7QcH2TZfaT7vXOrs36zt.jpg",codigo rojo (2024)
+https://archive.org/download/estrenos-2024/Red%20One.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/edgKt5Z7QcH2TZfaT7vXOrs36zt.jpg",codigo traje rojo (2024)CAM
+https://github.com/tokio14-dot/pel2/releases/download/Q.6948/2949292929291.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yOivfBs1vLrPRVw2Ci4AlGkl1G3.jpg",Mufasa: El rey león (2024)
+https://archive.org/download/estrenos-2024/Mufasa%20-%20The%20Lion%20King%20%282024%29.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflixasura-7asure/asure%20tapa1.jpg",01 Asura (2025)
+https://archive.org/download/bflixasura-7asure/BFLIXasura%20%281%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflixasura-7asure/asure%20tapa1.jpg",02 Asura (2025)
+https://archive.org/download/bflixasura-7asure/BFLIXasura%20%282%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflixasura-7asure/asure%20tapa1.jpg",03 Asura (2025)
+https://archive.org/download/bflixasura-7asure/BFLIXasura%20%283%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflixasura-7asure/asure%20tapa1.jpg",04 Asura (2025)
+https://archive.org/download/bflixasura-7asure/BFLIXasura%20%284%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflixasura-7asure/asure%20tapa1.jpg",05 Asura (2025)
+https://archive.org/download/bflixasura-7asure/BFLIXasura%20%285%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflixasura-7asure/asure%20tapa1.jpg",06 Asura (2025)
+https://archive.org/download/bflixasura-7asure/BFLIXasura%20%286%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflixasura-7asure/asure%20tapa1.jpg",07 Asura (2025)
+https://archive.org/download/bflixasura-7asure/BFLIXasura%20%287%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflixasura-7asure/asure%20tapa1.jpg",08 Asura (2025)
+
+
+#EXTINF: -1  tvg-logo="https://i.ibb.co/ZLKfLSQ/1.jpg" group-title="cuentos del imperio",1.El Camino del miedo
+https://dl.dropbox.com/scl/fi/2jwrlf54k6j4l07f1iq9g/1.mkv?rlkey=xmun8avjb9cdklddahpzp0ci6&st=4sxh32sy
+#EXTINF: -1  tvg-logo="https://i.ibb.co/9cL23cq/2.jpg" group-title="cuentos del imperio",2.El camino de la ira
+https://dl.dropbox.com/scl/fi/lcsxmtiu2qcfkr7fl72kd/2.mkv?rlkey=8cd6rx3dqkh3ahjlvyin3ntxf&st=phhyg4k7
+#EXTINF: -1  tvg-logo="https://i.ibb.co/F4sqtnm/3.jpg" group-title="cuentos del imperio",3.El camino del odio
+https://dl.dropbox.com/scl/fi/7d50q887f9r49wozhegwd/3.mkv?rlkey=lde3fopsmzaybmq3tan988cyl&st=notv2zwu
+#EXTINF: -1  tvg-logo="https://i.ibb.co/kxVyBHf/4.jpg" group-title="cuentos del imperio",4.Dedicado
+https://dl.dropbox.com/scl/fi/5nuwf2gi5y8rcmqmz3gf3/4.mkv?rlkey=tndilb5fvnz06i0i6xpy86gx1&st=7rhxrt4f
+#EXTINF: -1  tvg-logo="https://i.ibb.co/DMC2Lsf/5.jpg" group-title="cuentos del imperio",5.Realizacion
+https://dl.dropbox.com/scl/fi/5pcn140njclzzaou3skir/5.mkv?rlkey=yid2e78acxy8n3u4i0k4lv2yq&st=ad5e0jcd
+#EXTINF: -1  tvg-logo="https://i.ibb.co/FYZcLww/6.jpg" group-title="cuentos del imperio",6.El camino de la salida
+https://dl.dropbox.com/scl/fi/r054k8x7ctv8jq1noj0fq/6.mkv?rlkey=4b6fo7824m293z5g751afpr3g&st=rmxsr73w
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rlU3gwaKobcdrmIBTRfyGcE6ew.jpg",Bird Box Barcelona 
+https://github.com/BrianRVP/Prueba-plugins-/releases/download/201.12.12/Bird.Box.Barcelona.-.Ver.Online.en.Espanol.Latino.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Bible_Black_US_Front.jpg" group-title="TVSeries",Bible Black S01E01
+https://archive.org/download/bible-black-i-night-of-the-walpulgiss-01/Bible%20Black%20I%20-%20Night%20of%20the%20Walpulgiss%2001.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg" group-title="Peliculas",Spenser Confidential (2020)
+https://archive.org/download/spenser.confidential.2020.1080pduallatcinecalidad.is_20200321/Spenser.confidential.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tEPcSwoXCKGNC6fwYiEfC7xj2Sw.jpg",La desaparición de Haruhi Suzumiya (2010)
+https://archive.org/download/haruhi-suzumiya-pelicula-latino/Haruhi%20Suzumiya%20-%20Pelicula%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",Castlevania (2017)
+https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/castlevania.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rm0JbGvWnDajQcLwn3ruMos25Bx.jpg",El Balon De Oro (1994)
+https://archive.org/download/el-balon-de-oro-1994_202307/El%20Balon%20De%20Oro%20%281994%29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/66TZjqLAWEXOv91cnYypobkDnXP.jpg",La quinta ola (2016)
+https://archive.org/download/bflixelys-1um/BFLIXla5hhola%20.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ac2a7CJjxFwUULB8YGHdmDL5oSP.jpg",Om Shanti Om (2007)SUP
+https://archive.org/download/om-shanti-om-2007-pelicula-completa-subtitulada-online/Om%20Shanti%20Om%20%282007%29%20-%20Pelicula%20completa%20subtitulada%20online.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ozYkQIGsR7kPbu1yzjC7P3ph6vT.jpg",vidas de papel (2021)
+https://archive.org/download/vidas-de-papel-es-pelicula-turca-en-espanol/Vidas%20de%20Papel%20ES%20Pel%C3%ADcula%20Turca%20en%20Espa%C3%B1ol.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3ODA0NDIxMl5BMl5BanBnXkFtZTYwMTczNDk5._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E01 Gun Frontier
+https://archive.org/download/gunfrontier04_202003/Gun%20Frontier%2001.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3ODA0NDIxMl5BMl5BanBnXkFtZTYwMTczNDk5._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E02 Gun Frontier
+https://archive.org/download/gunfrontier04_202003/Gun%20Frontier%2002.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3ODA0NDIxMl5BMl5BanBnXkFtZTYwMTczNDk5._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E03 Gun Frontier
+https://archive.org/download/gunfrontier04_202003/Gun%20Frontier%2003.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3ODA0NDIxMl5BMl5BanBnXkFtZTYwMTczNDk5._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E04 Gun Frontier
+https://archive.org/download/gunfrontier04_202003/Gun%20Frontier%2004.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3ODA0NDIxMl5BMl5BanBnXkFtZTYwMTczNDk5._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E05 Gun Frontier
+https://archive.org/download/gunfrontier04_202003/Gun%20Frontier%2005.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3ODA0NDIxMl5BMl5BanBnXkFtZTYwMTczNDk5._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E06 Gun Frontier
+https://archive.org/download/gunfrontier04_202003/Gun%20Frontier%2006.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3ODA0NDIxMl5BMl5BanBnXkFtZTYwMTczNDk5._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E07 Gun Frontier
+https://archive.org/download/gunfrontier04_202003/Gun%20Frontier%2007.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3ODA0NDIxMl5BMl5BanBnXkFtZTYwMTczNDk5._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E08 Gun Frontier
+https://archive.org/download/gunfrontier04_202003/Gun%20Frontier%2008.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3ODA0NDIxMl5BMl5BanBnXkFtZTYwMTczNDk5._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E09 Gun Frontier
+https://archive.org/download/gunfrontier04_202003/Gun%20Frontier%2009.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3ODA0NDIxMl5BMl5BanBnXkFtZTYwMTczNDk5._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E10 Gun Frontier
+https://archive.org/download/gunfrontier04_202003/Gun%20Frontier%2010.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3ODA0NDIxMl5BMl5BanBnXkFtZTYwMTczNDk5._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E11 Gun Frontier
+https://archive.org/download/gunfrontier04_202003/Gun%20Frontier%2011.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3ODA0NDIxMl5BMl5BanBnXkFtZTYwMTczNDk5._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E12 Gun Frontier
+https://archive.org/download/gunfrontier04_202003/Gun%20Frontier%2012.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3ODA0NDIxMl5BMl5BanBnXkFtZTYwMTczNDk5._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E13 Gun Frontier
+https://archive.org/download/gunfrontier04_202003/Gun%20Frontier%2013.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JmMzBhYWUtOGRlZi00NWE3LWJjNDgtMzc4ZWY2ZGJlMGU3XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E01 Trese
+https://archive.org/download/trese-collection-1/Trese%201%20-%20Episode%2001%20Sub.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JmMzBhYWUtOGRlZi00NWE3LWJjNDgtMzc4ZWY2ZGJlMGU3XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E02 Trese
+https://archive.org/download/trese-collection-1/Trese%201%20-%20Episode%2002%20Sub.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JmMzBhYWUtOGRlZi00NWE3LWJjNDgtMzc4ZWY2ZGJlMGU3XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E03 Trese
+https://archive.org/download/trese-collection-2/Trese%201%20-%20Episode%2003%20Sub.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JmMzBhYWUtOGRlZi00NWE3LWJjNDgtMzc4ZWY2ZGJlMGU3XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E04 Trese
+https://archive.org/download/trese-collection-2/Trese%201%20-%20Episode%2004%20Sub.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JmMzBhYWUtOGRlZi00NWE3LWJjNDgtMzc4ZWY2ZGJlMGU3XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E05 Trese
+https://archive.org/download/trese-collection-3/Trese%201%20-%20Episode%2005%20Sub.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JmMzBhYWUtOGRlZi00NWE3LWJjNDgtMzc4ZWY2ZGJlMGU3XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E06 Trese
+https://archive.org/download/trese-collection-3/Trese%201%20-%20Episode%2006%20Sub.mkv
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E01 Claymore
+https://archive.org/download/3222_20201023/3222-1.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E02 Claymore
+https://archive.org/download/3222_20201023/3222-2.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E03 Claymore
+https://archive.org/download/3222_20201023/3222-3.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E04 Claymore
+https://archive.org/download/3222_20201023/3222-4.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E05 Claymore
+https://archive.org/download/3222_20201023/3222-5.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E06 Claymore
+https://archive.org/download/3222_20201023/3222-6.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E07 Claymore
+https://archive.org/download/3222_20201023/3222-7.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E08 Claymore
+https://archive.org/download/3222_20201023/3222-8.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E09 Claymore
+https://archive.org/download/3222_20201023/3222-9.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E10 Claymore
+https://archive.org/download/3222_20201023/3222-10.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E11 Claymore
+https://archive.org/download/3222_20201023/3222-11.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E12 Claymore
+https://archive.org/download/3222_20201023/3222-12.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E13 Claymore
+https://archive.org/download/3222_20201023/3222-13.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E14 Claymore
+https://archive.org/download/3222_20201023/3222-14.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E15 Claymore
+https://archive.org/download/3222_20201023/3222-15.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E16 Claymore
+https://archive.org/download/3222_20201023/3222-16.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E17 Claymore
+https://archive.org/download/3222_20201023/3222-17.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E18 Claymore
+https://archive.org/download/3222_20201023/3222-18.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E19 Claymore
+https://archive.org/download/3222_20201023/3222-19.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E20 Claymore
+https://archive.org/download/3222_20201023/3222-20.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E21 Claymore
+https://archive.org/download/3222_20201023/3222-21.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E22 Claymore
+https://archive.org/download/3222_20201023/3222-22.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E23 Claymore
+https://archive.org/download/3222_20201023/3222-23.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E24 Claymore
+https://archive.org/download/3222_20201023/3222-24.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E25 Claymore
+https://archive.org/download/3222_20201023/3222-25.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E26 Claymore
+https://archive.org/download/3222_20201023/3222-26.mp4
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-1-3.jpg" group-title="TV Series",S01E01 Spawn
+https://archive.org/download/todd-mcfarlanes-spawn/SPAWN1%20-%20PART%201.mkv
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-1-3.jpg" group-title="TV Series",S01E02 Spawn
+https://archive.org/download/todd-mcfarlanes-spawn/SPAWN1%20-%20PART%202.mkv
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-1-3.jpg" group-title="TV Series",S01E03 Spawn
+https://archive.org/download/todd-mcfarlanes-spawn/SPAWN2%20-%20PART%201.mkv
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-1-3.jpg" group-title="TV Series",S01E04 Spawn
+https://archive.org/download/todd-mcfarlanes-spawn/SPAWN2%20-%20PART%202.mkv
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-1-3.jpg" group-title="TV Series",S01E05 Spawn
+https://archive.org/download/todd-mcfarlanes-spawn/SPAWN3%20-%20PART%201.mkv
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-1-3.jpg" group-title="TV Series",S01E06 Spawn
+https://archive.org/download/todd-mcfarlanes-spawn/SPAWN3%20-%20PART%202.mKV
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-2-3.jpg" group-title="TV Series",S02E01 Spawn
+https://archive.org/download/spawn-1997-1080p-dual-lat/S2E01%20Spawn%20Home%2C%20Bitter%20Home%20-Dual%20Lat-.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-2-3.jpg" group-title="TV Series",S02E02 Spawn
+https://archive.org/download/spawn-1997-1080p-dual-lat/S2E02%20Spawn%20Access%20Denied%20-Dual%20Lat-.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-2-3.jpg" group-title="TV Series",S02E03 Spawn
+https://archive.org/download/spawn-1997-1080p-dual-lat/S2E03%20Spawn%20Colors%20of%20Blood%20-Dual%20Lat-.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-2-3.jpg" group-title="TV Series",S02E04 Spawn
+https://archive.org/download/spawn-1997-1080p-dual-lat/S2E04%20Spawn%20Send%20in%20the%20KKKlowns%20-Dual%20Lat-.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-2-3.jpg" group-title="TV Series",S02E05 Spawn
+https://archive.org/download/spawn-1997-1080p-dual-lat/S2E05%20Spawn%20Deathblow%20-Dual%20Lat-.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-2-3.jpg" group-title="TV Series",S02E06 Spawn
+https://archive.org/download/spawn-1997-1080p-dual-lat/S2E06%20Spawn%20Hellzapoppin%20-Dual%20Lat-.mkv
+
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-1-3.jpg" group-title="TV Series",Spawn S01E01
+https://archive.org/download/todd-mcfarlanes-spawn/SPAWN1%20-%20PART%201.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-1-3.jpg" group-title="TV Series",Spawn S01E02
+https://archive.org/download/todd-mcfarlanes-spawn/SPAWN1%20-%20PART%202.mkv
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-2-3.jpg" group-title="TV Series",Spawn S02E01
+https://archive.org/download/todd-mcfarlanes-spawn/SPAWN2%20-%20PART%201.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-2-3.jpg" group-title="TV Series",Spawn S02E02
+https://archive.org/download/todd-mcfarlanes-spawn/SPAWN2%20-%20PART%202.mkv
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-3.jpg" group-title="TV Series",Spawn S03E01
+https://archive.org/download/todd-mcfarlanes-spawn/SPAWN3%20-%20PART%201.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/78645-3.jpg" group-title="TV Series",Spawn S03E02
+https://archive.org/download/todd-mcfarlanes-spawn/SPAWN3%20-%20PART%202.mKV
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h7904tdTu4O6EVX4UyesxtqF0xR.jpg" group-title="Peliculas",Seven (1995)
+https://archive.org/download/seven-1995_202409/Seven%20%20%20%281995%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zl2oCYmEB0iKWZIVQWOH5Ao5Mo4.jpg" group-title="Peliculas",The Current Ocupant (2019)
+https://archive.org/download/wendy-2020_202012/The%20Current%20Occupant%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gIQqqSiQj9BFvD0OtaeammxpJhH.jpg" group-title="Peliculas",Malicious (2018)
+https://archive.org/download/lleutdydi/mmlsalicciaosz.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflix-3/Silo%20%282023%29.png" group-title="Apple tv+",silo (2024)
+https://archive.org/download/bflix-3/solo2temp.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MANUAL DE SUPERVIVENCIA ESCOLAR DE NED.jpg" group-title="Apple tv+",MANUAL DE SUPERVIVENCIA ESCOLAR DE NED
+http://archive.org/download/ns_20210520/NED.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/20lz5Ld3ulxVPQTX5p9DvD1hgk1.jpg" group-title="2025",Sniper: La Ultima Resistencia (2025)
+https://archive.org/download/d3vu37t4.4.747cc10n/BFLIXThe1L4st1St4nd.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3wGZ9QvjFH3wrNChYFFqbsW0Qge.jpg" group-title="2025",La culpa no es mía (2025)
+https://archive.org/download/d3vu37t4.4.747cc10n/BFLIXL4culp4no3sm%C3%AD4.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dGXo36FEk3eIN4aTijDQ3Rh9glJ.jpg" group-title="2025",Goosebumps La desaparicion (2025)
+https://archive.org/download/boku-no-hero-4/Goosebumps2025.m3u
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflix-6_202501/Invisible%20%282024%29.jpg" group-title="2025", invisible (2024)
+https://archive.org/download/bflix-6_202501/invisible.m3u
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflixasura-7asure/asure%20tapap%C3%B1%20principal.jpg" group-title="2025",Asura (2025)
+https://archive.org/download/bflixasura-7asure/BFLIXasure.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rBSKGZuOZqkjrjyDlX2cx4lTaRW.jpg" group-title="2025",Hombre lobo (2025)
+https://archive.org/download/d3vu37t4.4.747cc10n/BFLIXW4rhors31On3.ia.mp4
+
 #EXTINF:-1 group-title="Netflix"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Sector_36.jpg/220px-Sector_36.jpg",SECTOR 36
 https://be6721.rcr72.waw04.cdn255.com/hls2/01/06914/2g05g0h8x9tl_h/index-v1-a1.m3u8?t=AK1Jrs6gSMeny-fT0x5GKJiceqxuS4AngMeolvG0yuA&s=1737311105&e=10800&f=34570267&srv=21&asn=13999&sp=4000&p=
 
@@ -167,14 +401,83 @@ https://raw.githubusercontent.com/BrianRVP/Ejemplo/refs/heads/main/Besos%20Kitty
 https://archive.org/download/la-ninera-4/cienanods0l3dad.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1WynayCqKRzrl4cFZR8NOfiDwd6.jpg",desencanto(2018)
 https://archive.org/download/la-ninera-4/desencanto.m3u
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCUcNIUvwtceuF3WdvlFfGll7Eo.jpg",Family by Choice (2024)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/family
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",1 Family by Choice (2024)
+https://github.com/tokio14-dot/cuentos/releases/download/556855/1x.1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",2 Family by Choice (2024)
+https://github.com/tokio14-dot/cuentos/releases/download/556855/1x.2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",3 Family by Choice (2024)
+https://github.com/tokio14-dot/cuentos/releases/download/556855/1x.3.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",4 Family by Choice (2024)
+https://github.com/tokio14-dot/cuentos/releases/download/556855/1x.4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",5 Family by Choice (2024)
+https://github.com/tokio14-dot/cuentos/releases/download/556855/1x.5.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",6 Family by Choice (2024)
+https://github.com/tokio14-dot/cuentos/releases/download/556855/1x.6.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",7 Family by Choice (2024)
+https://github.com/tokio14-dot/cuentos/releases/download/556855/1x.7.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",8 Family by Choice (2024)
+https://github.com/tokio14-dot/cuentos/releases/download/556855/1x.8.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",9 Family by Choice (2024)
+https://github.com/tokio14-dot/cuentos/releases/download/556855/1x.9.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",10 Family by Choice (2024)
+https://github.com/tokio14-dot/cuentos/releases/download/556855/1x.10.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",11 Family by Choice (2024)
+https://github.com/tokio14-dot/cuentos/releases/download/556855/1x.11.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",12 Family by Choice (2024)
+https://github.com/tokio14-dot/cuentos/releases/download/556855/1x.12.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",13 Family by Choice (2024)
+https://github.com/tokio14-dot/cuentos/releases/download/556855/1x.13.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",14 Family by Choice (2024)
+https://github.com/tokio14-dot/cuentos/releases/download/556855/1x.14.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lEKsuLjivwkgNb9Y6Upj86aabdK.jpg",Misterios sin Resolver (1988)
 https://archive.org/download/la-ninera-4/misteriosinr3s0lv3r1.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9OvSVH1KJQRlLzOVLEGHta9pwfX.jpg",Devilman Crybaby (2018)
 https://archive.org/download/spartacus_202412/DEVILMAN.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/agxlRm9l50czjWPNW5Q1esUMdOb.jpg"group-title="Netflix",El juego del calamar: Temporada 2 (2024)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/agxlRm9l50czjWPNW5Q1esUMdOb.jpg" group-title="Netflix",El juego del calamar: Temporada 2 (2024)
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/calammar%201
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x1tomwnDNB7AeXTyEfacigNboo4.jpg" group-title="Netflix",01 LUZ VERDE,LUZ ROJA
+https://dl.dropbox.com/scl/fi/500smmi0of79bvpwglcvo/65313-1.mp4?rlkey=wz5b0hppjf9jjkvx69ez8g4vq&st=890q240k&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x1tomwnDNB7AeXTyEfacigNboo4.jpg" group-title="Netflix",02 INFIERNO
+https://dl.dropbox.com/scl/fi/lp6kw2x7lhv4q2pxqsm34/65313-2.mp4?rlkey=dq4n6x0dvczpghag9xmkcni9q&st=cq93gfh8&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x1tomwnDNB7AeXTyEfacigNboo4.jpg" group-title="Netflix",03 EL HOMBRE DEL PARAGUA
+https://dl.dropbox.com/scl/fi/wammcaebzvgpxr7p3hcmq/65313-3.mp4?rlkey=cs4h1cr4h5t4md66c67clagp6&st=4dizi8ck&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x1tomwnDNB7AeXTyEfacigNboo4.jpg" group-title="Netflix",04 EL EQUIPO ES LO PRIMERO
+https://dl.dropbox.com/scl/fi/00erqe04auf8ye7gvssit/65313-4.mp4?rlkey=tjlqote241q3ng92dkyy4u3u7&st=0qa06dh3&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x1tomwnDNB7AeXTyEfacigNboo4.jpg" group-title="Netflix",05 UN MUNDO JUNTOS
+https://dl.dropbox.com/scl/fi/pabkccvwmrcf785kbghoq/65313-5.mp4?rlkey=nqenzacnqlc8mdkt8tzzjlawo&st=g3q97bh2&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x1tomwnDNB7AeXTyEfacigNboo4.jpg" group-title="Netflix",06 Ggambu
+https://dl.dropbox.com/scl/fi/aour464cdzf7ychks8ztr/65313-6.mp4?rlkey=tr3a5a16t2c7gitmk4slcxb0j&st=kf6bc57r&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x1tomwnDNB7AeXTyEfacigNboo4.jpg" group-title="Netflix",07 PERSONAS IMPORTANTES
+https://dl.dropbox.com/scl/fi/fqr2wgyetwyvmkqjnnu76/65313-7.mp4?rlkey=63cdneyox5faqpuzd7a7y5s5c&st=3wogmtgz&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x1tomwnDNB7AeXTyEfacigNboo4.jpg",08 EL LODER
+https://dl.dropbox.com/scl/fi/4sf597lo64jlg54ju4y4x/8.mp4?rlkey=fv34cymca5zfq1ai0q72ezwx4&st=o0y15hn5&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x1tomwnDNB7AeXTyEfacigNboo4.jpg",09 UN DIA CON SUERTE
+https://dl.dropbox.com/scl/fi/te6hhvrg695hp37j2tuf1/9.mp4?rlkey=cat0j4tf6ypgygw749d8z8uw5&st=vosa91sf&dl=0
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfezw4BKD6boTe27Zp9VvbpTQXb.jpg" group-title="Netflix",01 pan y loteria
+https://dl.dropbox.com/scl/fi/tjibfjkt1f76p8eu59kp5/01.mp4?rlkey=tecwvl37jp1ll3h2tcg2m1v6k&st=n2mriikh&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1otqz1eoDGL1nAd6anrbaxcNhEZ.jpg" group-title="Netflix",02 fiesta de halloween
+https://dl.dropbox.com/scl/fi/dbsepgusmlrotvuncbm0z/02.mp4?rlkey=3504x55ic6ooybsz07vy1c5wz&st=voo6mic1&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jyGlQHzDcgzEKLjNmEja0miE3gQ.jpg" group-title="Netflix",03 001
+https://dl.dropbox.com/scl/fi/070nyu7drm723nr6s78s1/03.mp4?rlkey=xvl208818g959b9vpfo9mcld5&st=yhzdwgf2&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/elVVhXo8lEp6y12XoF3GltbZJAz.jpg" group-title="Netflix",04 seis piernas
+https://dl.dropbox.com/scl/fi/7t9pzmz62tlyjsmffq5bo/04.mp4?rlkey=e4bsf8brof5opsgandb28iyc3&st=6op74j05&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v84u6wRqI3zds9HnJXbwEcv3TVe.jpg" group-title="Netflix",05 otro juego
+https://dl.dropbox.com/scl/fi/i5ggaxu9xcgyivecr7qif/05.mp4?rlkey=xd7yzag01yxf3ewfb0wttpvv7&st=d78u235e&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2xeGngpYYIG68cnxhz8cpkuhSSb.jpg" group-title="Netflix",06 0 X
+https://dl.dropbox.com/scl/fi/4xwld4qys76ikcvqcqyj2/2x6.mp4?rlkey=6fmchm46x5ezmygg555qilrjt&st=u06p8kwl&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/du2d9DAtw0pyHHL9FtuCNcqW8Wc.jpg" group-title="Netflix",07 amigos o enemigos 
+https://dl.dropbox.com/scl/fi/029wrckrpx9zytd9gu8oi/2x7.mp4?rlkey=e4dzkkmahg3vf754i8i7mr9lr&st=axhhhfw0&dl=0
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI TEMPORADA 6 LATINO
 https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Cobra%20Kai%20sexta%20temporada
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wCQP1El20FFncM0lIYcaW3Kq19o.jpg",3% (2016)
@@ -245,22 +548,81 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Woo%3AUna%20aboga
 https://raw.githubusercontent.com/MonkeyDluffy000/Anime/main/CupHead%20Show%20(2022)
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qjUn6GVZVDifLHB7bvVrgZsOfzE.jpg"group-title="Netflix",XINA
 https://dl.dropbox.com/s/qybhybywfjkupuq/xen4.m3u
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Netflix",Los Bridgerton (2024)
-https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Bridgestone
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/u8sLAJUvY9yzWqtVfKRQz5yin3D.jpg"group-title="Netflix",dulce hogar
-https://raw.githubusercontent.com/linkarg13/SERIES/main/DULCEHOGAR
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/thkeCJlHhBj2LmxqR7kfHYzOsl9.jpg" group-title="Netflix",Los detectives difuntos (2024) latino
-https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Los%20detectives%20difuntos
+#Temporada1 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 1",Los Bridgerton (2020) cap 1 720p latino 
+https://dl.dropbox.com/scl/fi/ydao99zo5xkija9fm2bbx/Ver-Bridgerton-1x1-Online-Cuevana2.mp4?rlkey=w0wfki7kxjjxhem0widr2bbdb&dl=0 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 1",Los Bridgerton (2020) cap 2 720p latino 
+https://dl.dropbox.com/scl/fi/btvackg2d4t9pzqzypkr5/Ver-Bridgerton-1x2-Online-Cuevana2.mp4?rlkey=87wintowuvpgibfhumladoq1s&dl=0 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 1",Los Bridgerton (2020) cap 3 720p latino 
+https://dl.dropbox.com/scl/fi/dd4fv58jeo1kuw0ykiu5m/Ver-Bridgerton-1x3-Online-Cuevana2.mp4?rlkey=80km71r85snxpa0ndh1hgvvso&dl=0 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 1",Los Bridgerton (2020) cap 4 720p latino 
+https://dl.dropbox.com/scl/fi/30viizcx4jqp2p0zq56lv/Ver-Bridgerton-1x4-Online-Cuevana2.mp4?rlkey=rogi01riwhgq1t6h7wikna6yy&dl=0 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 1",Los Bridgerton (2020) cap 5 720p latino 
+https://dl.dropbox.com/scl/fi/zpskk95z4bsv89jpka2fx/Ver-Bridgerton-1x5-Online-Cuevana2.mp4?rlkey=eypt4bod0w24mmg5rf3e2nlln&dl=0 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 1",Los Bridgerton (2020) cap 6 720p latino 
+https://dl.dropbox.com/scl/fi/8ic5jc08zo18rn7z82ezh/Ver-Bridgerton-1x6-Online-Cuevana2.mp4?rlkey=yx2yaut9yp83c4db0sfjxw9qv&dl=0 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 1",Los Bridgerton (2020) cap 7 720p latino 
+https://dl.dropbox.com/scl/fi/k01k9b3oukrptducw0i70/Ver-Bridgerton-1x7-Online-Cuevana2.mp4?rlkey=tl0jbb42g2rppuqzgsygx42m4&dl=0 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 1",Los Bridgerton (2020) cap 8 720p latino 
+https://dl.dropbox.com/scl/fi/bc1akvbyljlonrmbmu7iu/Ver-Bridgerton-1x8-Online-Cuevana2.mp4?rlkey=96z8p8kkdb4f4t6vh18my0esx&dl=0
+
+#Temporada2 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 2",Los Bridgerton (2020) cap 1 720p latino 
+https://www.googleapis.com/drive/v3/files/105PSHGfOTpFiVv26-Ju0lvPpc2bUfa6U?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 2",Los Bridgerton (2020) cap 2 720p latino 
+https://www.googleapis.com/drive/v3/files/1EJEMp_mJt2YwFeAjLwwjn83fwv6b3Hwn?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 2",Los Bridgerton (2020) cap 3 720p latino 
+https://www.googleapis.com/drive/v3/files/1e14A95PEiGxLK2RoqejUzsaoSvDGJQGq?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 2",Los Bridgerton (2020) cap 4 720p latino 
+https://www.googleapis.com/drive/v3/files/1nlguoaRaokuCOMwR4s-XISGED95-K7YK?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 2",Los Bridgerton (2020) cap 5 720p latino 
+https://www.googleapis.com/drive/v3/files/1ihN3qIygLi1glVkFdWz-3kBLRTQ9UYc5?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 2",Los Bridgerton (2020) cap 6 720p latino 
+https://www.googleapis.com/drive/v3/files/1yF0NqFmjvJo4wDD1eg6yR9sk_vpaXzBm?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 2",Los Bridgerton (2020) cap 7 720p latino 
+https://www.googleapis.com/drive/v3/files/1H1qR9Vs3qm4cfZXUjoXiVl6bSXWnza_t?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 2",Los Bridgerton (2020) cap 8 720p latino 
+https://www.googleapis.com/drive/v3/files/1q8pKyq1CRXciejXIIbkuRmYCkwpy0Puk?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
+
+#Temporada3 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 3",Los Bridgerton (2024) cap 1 720p latino 
+https://dl.dropbox.com/scl/fi/ob2v0a8aeg59c4bim4vgg/Episodio-1.mp4?rlkey=ziczysbk5b17kqh4wkwtm30c7&dl=0 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 3",Los Bridgerton (2024) cap 2 720p latino 
+https://dl.dropbox.com/scl/fi/8k3xc7bq0vvqehn6scpa3/Episodio-2.mp4?rlkey=06fca9s3txac6gcofmcl1oj1b&dl=0 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 3",Los Bridgerton (2024) cap 3 720p latino 
+https://dl.dropbox.com/scl/fi/a9xfwvi3fpr8fkd36q97i/Episodio-3.mp4?rlkey=tmd2i6mqzuvzwyvb9mdwm7x2d&dl=0 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 3",Los Bridgerton (2024) cap 4 720p latino 
+https://dl.dropbox.com/scl/fi/y3xl6sbf9vw21kxgu2h0c/Episodio-4.mp4?rlkey=863feyeknnmuy0p93z2wvppjz&dl=0 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 3",Los Bridgerton (2024) cap 5 720p latino 
+https://dl.dropbox.com/scl/fi/osffmhf1d82mikq540dxb/Episodio-5.mp4?rlkey=4tctjhonkj98csxjkuqqjf9ka&dl=0 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 3",Los Bridgerton (2024) cap 6 720p latino 
+https://dl.dropbox.com/scl/fi/9fe9f5ryqntzhs8jkzxrf/Episodio-6.mp4?rlkey=jkzy70a6w60ob5ltc8uil0cxx&dl=0 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 3",Los Bridgerton (2024) cap 7 720p latino 
+https://dl.dropbox.com/scl/fi/l2l5zdrs579es2mppwe6q/Episodio-7.mp4?rlkey=ti4usgm94k20m1y85gc8j6kz2&dl=0 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Temporada 3",Los Bridgerton (2024) cap 8 720p latino 
+https://dl.dropbox.com/scl/fi/0ijjwqsyas9pkw3gie7lt/Episodio-8.mp4?rlkey=ge29rm4b8d4tz6aac6lup2ux2&dl=0
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/thkeCJlHhBj2LmxqR7kfHYzOsl9.jpg" group-title="Temporada 1",Los detectives difuntos (2024) cap 1 720p latino
+https://www.googleapis.com/drive/v3/files/1PLxvphWl2kHQIPDuoiIFsre5FemId55Z?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/thkeCJlHhBj2LmxqR7kfHYzOsl9.jpg" group-title="Temporada 1",Los detectives difuntos (2024) cap 2 720p latino
+https://www.googleapis.com/drive/v3/files/1iI6J_0VYelOGhfQ-efe0YBQmoVIqKJbw?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/thkeCJlHhBj2LmxqR7kfHYzOsl9.jpg" group-title="Temporada 1",Los detectives difuntos (2024) cap 3 720p latino
+https://www.googleapis.com/drive/v3/files/1NrxUEgWgSPcTRHIzrHdmpUcHjLZdNg7v?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/thkeCJlHhBj2LmxqR7kfHYzOsl9.jpg" group-title="Temporada 1",Los detectives difuntos (2024) cap 4 720p latino
+https://www.googleapis.com/drive/v3/files/1c7mhOqRFQZ4Tpyh-iC2HDT6Q7ftjOAEL?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/thkeCJlHhBj2LmxqR7kfHYzOsl9.jpg" group-title="Temporada 1",Los detectives difuntos (2024) cap 5 720p latino
+https://www.googleapis.com/drive/v3/files/1hKJGGQNSFWojt1Y7u52WCd4CXQ1BtMUP?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/thkeCJlHhBj2LmxqR7kfHYzOsl9.jpg" group-title="Temporada 1",Los detectives difuntos (2024) cap 6 720p latino
+https://www.googleapis.com/drive/v3/files/1fihllr38w-9a2cG3Emc38ph7ddqrJ9HT?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/thkeCJlHhBj2LmxqR7kfHYzOsl9.jpg" group-title="Temporada 1",Los detectives difuntos (2024) cap 7 720p latino
+https://www.googleapis.com/drive/v3/files/1zFzk2t4VZzY_W0R_l01ESrWkStiS4iWo?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/thkeCJlHhBj2LmxqR7kfHYzOsl9.jpg" group-title="Temporada 1",Los detectives difuntos (2024) cap 8 720p latino
+https://www.googleapis.com/drive/v3/files/1p5pZ_PNwLqwzI_1QcM8ps0L6Ks0f2ph9?alt=media&key=AIzaSyDOh3TzVbUSrk1MKCPyFDt_PzcYBTVKz10
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/qoFkjFwSb4NM6ZHpIZW9iKgXA4e.jpg"group-title="Netflix", CADAVERES
 https://raw.githubusercontent.com/linkarg13/SERIES/main/Criminales
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5uf6L2w2QRomahGMCniHskNOQWf.jpg"group-title="Netflix",OKUPAS
-https://raw.githubusercontent.com/linkarg13/SERIES/main/OKUPAS
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/3-1669726661.png"group-title="Netflix",3%
-https://raw.githubusercontent.com/linkarg13/SERIES/main/3%25
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ulGaOy0dUXAm8V2XRmIrQ3xE8lt.jpg" group-title="Netflix",Avatar:La leyenda de aang live action (2024) latino
-https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Avatar%20live%20action
-#EXTINF:-1 tvg-logo="https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3Iw27VOUE9PGjrupjDAvPnlbGR9.jpg&w=640&q=75"group-title="Netflix", cuerpo en llamas
-https://raw.githubusercontent.com/linkarg13/Cuerpoenllamas/main/Cuerpo%20en%20llamas
+
+
 #EXTINF:-1 tvg-logo="https://repro12.estrenosdoramas.us/Sisyphus.png" group-title="Netflix",EL MITO DE SISIFO
 https://archive.org/download/elch4v0/sisy.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/b34ckm4.jpg" group-title="Netflix",EL MUNDO DE BEAKMAN {1992}
@@ -663,7 +1025,7 @@ https://archive.org/download/american-pie-8-el-reencuentro-2012/American%20Pie%2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/de5QBIdVR4dnkBZ4a0zjkS4lTg.jpg" group-title="Peliculas",American Reunion (2012)
 https://archive.org/download/american-pie-8-el-reencuentro-2012/American%20Pie%208%20El%20Reencuentro%20%282012%29.mp4
 
-#EXTM3U 
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg" group-title="Peliculas",E.T (1982)
 https://archive.org/download/Peliculas-wii/E.T.%20El%20Extraterrestre.mp4
